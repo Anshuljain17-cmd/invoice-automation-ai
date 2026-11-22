@@ -1,0 +1,4 @@
+file,supplier,invoice_number,total,reasons
+invoice_18.pdf,Marina IT Solutions LLC,INV-2026-1126,24872.5,"total 24,872.50 does not equal subtotal + VAT (expected 24,622.50)"
+invoice_19.pdf,Al Noor Printing Services,INV-2026-1133,25074.0,missing: trn
+invoice_20.pdf,Falcon Catering Services,INV-2026-1035,10290.0,duplicate of invoice_05.pdf
