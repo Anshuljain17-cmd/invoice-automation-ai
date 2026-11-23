@@ -15,7 +15,7 @@ Finance teams type invoice details into spreadsheets by hand. It is slow, and ty
 - Exports an Excel file with an **Approved** sheet and an **Exceptions** sheet
 
 ## Demo
-[PASTE YOUR VIDEO LINK HERE]
+[https://lnkd.in/p/gAs6h5FS]
 
 ![Home](screenshots/01-home.png)
 ![20 invoices selected](screenshots/02-files-selected.png)
